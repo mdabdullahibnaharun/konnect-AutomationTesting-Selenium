@@ -3,16 +3,18 @@
 ***This is an automation test script for testing the [Demo Site](https://konnect.creativesofttechnology.com/).***
 
 ## Scenario
-1. Create two new accounts
+1. Create new accounts
 2. Login with any of the new account
-3. Sign out from the account
-4. Run the above cycle (2-6) for another user.
+3. Dimension Check
+4. Navigation Check
 
 ## Language
 - Java
 
 ## Automation Tool
 - Selenium
+
+## Build Tool
 - Maven
 
 ## Framework
